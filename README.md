@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Abdalmajeed Adel Banner" style="width:100%;">
+ <h4 style="width:100%;> Adulmajeed Adel</h4>
 </p>
 
 # السلام عليكم ورحمة الله وبركاته 👋  
