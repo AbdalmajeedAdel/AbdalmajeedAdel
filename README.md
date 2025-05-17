@@ -14,7 +14,7 @@
 - 💬 Native Arabic speaker | English speaker | Learner for life.
 - 🎓 Industrial Engineering background + strong love for software.
 - 📍 Based in Yemen 🇾🇪
-- 🕋 أفتخر بديني، وأعمل لأجل العلم وخدمة الناس 🌿
+
 
 ---
 
@@ -48,11 +48,6 @@
 - 📧 Email: ????
 - 🌐 Portfolio:???
 - 🐦 Twitter: ????
-
----
-
-> ❝ وما توفيقي إلا بالله عليه توكلت وإليه أُنيب ❞  
-> *Success comes only from Allah, in Him I trust and to Him I turn.* 🤍
 
 ---
 
